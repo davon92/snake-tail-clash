@@ -32,14 +32,14 @@ Tail Clash is a competitive snake game where:
 - [x] Game over logic (self collision)
 - [x] Restart on game over
 - [x] Responsive mobile layout
-- [x] Swipe/tap controls for mobile
+- [x] tap controls for mobile
 
 ### 🔄 In Progress
 
-- [ ] Add basic AI-controlled snakes
-- [ ] Implement AI apple-chasing logic
+- [X] Add basic AI-controlled snakes
+- [X] Implement AI apple-chasing logic
 - [ ] Tail collision kills enemy snakes
-- [ ] Tail collision kills player snake
+- [X] Tail collision kills player snake
 
 ### 🧠 Stretch Goals
 
